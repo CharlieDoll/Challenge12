@@ -28,4 +28,3 @@ CREATE TABLE employee (
     manager_id INT
 );
 
-INSERT INTO role (id, title, salary, department_id)
