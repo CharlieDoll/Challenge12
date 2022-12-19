@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "mysql": "^2.18.1"
+  },
+  "name": "challenge12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieDoll/Challenge12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieDoll/Challenge12/issues"
+  },
+  "homepage": "https://github.com/CharlieDoll/Challenge12#readme",
+  "description": ""
+}
